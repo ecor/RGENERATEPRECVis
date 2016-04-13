@@ -1,0 +1,17 @@
+Package: RGENERATEPRECVis
+Maintainer: Emanuele Cordano <emanuele.cordano@gmail.com>
+License: GPL (>= 2)
+Title: cd ../Plotting Function for RGENERATEPREC and RGENERATE
+Type: Package
+Depends:
+    R (>= 2.10),RGENERATEPREC,ggplot2,reshape2
+Imports: RMAWGEN 
+Author: Emanuele Cordano
+Description: Graphical function to show
+    RGENERATEPREC and RGENERATE results are here included. This package is experimental
+    and under development. Bugs/comments/questions/collaboration of any kind Revisited from 2014.
+    are warmly welcomed.
+Version: 1.0
+Repository: NA
+Date: 2016-04-12
+RoxygenNote: 5.0.1
